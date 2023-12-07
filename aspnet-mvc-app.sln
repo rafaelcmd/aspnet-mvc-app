@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{922AD43C-AEB3-4CF9-85E2-F9FB8B3B0862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnet-mvc-demo", "src\aspnet-mvc-demo\aspnet-mvc-demo.csproj", "{07C521F7-6150-43AD-BCF3-1A5502ACC10E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C521F7-6150-43AD-BCF3-1A5502ACC10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C521F7-6150-43AD-BCF3-1A5502ACC10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C521F7-6150-43AD-BCF3-1A5502ACC10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C521F7-6150-43AD-BCF3-1A5502ACC10E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{07C521F7-6150-43AD-BCF3-1A5502ACC10E} = {922AD43C-AEB3-4CF9-85E2-F9FB8B3B0862}
+	EndGlobalSection
+EndGlobal
